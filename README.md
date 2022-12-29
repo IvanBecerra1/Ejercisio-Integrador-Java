@@ -6,12 +6,11 @@ inteligencia artificial de Tony Stark.
 Utilizando los conocimientos de la Programacion Orientada a Objetos
 
 ## Temas abarcados
-- Abstraccion
-- Polimorfismo
-- Intefaces
+- Programacion Orientada a objetos
 - Programacion fucional
 - Programacion multi-task
-- Implementacion de Solid
+- Implementacion de S.O.L.I.D
+- Implementacion de D.R.Y
 
 ### Java Version
 - Version 11
