@@ -3,8 +3,6 @@
 Un ejercisio integrador de java, donde se plantea crear a JARVIS, la
 inteligencia artificial de Tony Stark.
 
-Utilizando los conocimientos de la Programacion Orientada a Objetos
-
 ## Temas abarcados
 - Programacion Orientada a objetos
 - Programacion fucional
